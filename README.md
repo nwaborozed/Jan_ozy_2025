@@ -1,8 +1,4 @@
 # Jan_ozy_2025
 DevOps Class
 
-n → Most popular. Structured, easy to read, and works well with other tools.
-
-table → Human-readable format. Clean tables, good for quick views in terminal.
-
-text → Lightweight, plain text (less structured).
+Nice work customizing your AWS config! If you're looking for where your AWS credentials and config files are stored, here’s where to find them and how to view them from CMD:
